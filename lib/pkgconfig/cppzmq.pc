@@ -1,0 +1,9 @@
+prefix="/home/adam/Projects/libs_to_compile/compiled"
+includedir="/home/adam/Projects/libs_to_compile/compiled/include"
+
+Name: cppzmq
+Description: C++ binding for libzmq
+URL: https://github.com/zeromq/cppzmq
+Version: 4.10.0
+Requires: libzmq
+Cflags: -I"${includedir}" 
