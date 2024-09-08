@@ -8,3 +8,6 @@ cp -r ./ /usr/
 ldconfig
 ```
 and they are ready to use!
+
+# Important Note!
+Project was made due to science club called "Bractwo Inżynierii Cyfrowej" on DSW Wroclaw University, on which I've participated.
